@@ -19,6 +19,7 @@ public class AbstractionWithoutConstructor {
 
 }
 
+
 abstract class WorldBank {
 	// abstract method have hidden implementation
 	
