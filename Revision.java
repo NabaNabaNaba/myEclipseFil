@@ -52,7 +52,7 @@ public class Revision {
 		System.out.println(7 >= 7); // true
 
 		// Logical operator
-
+		
 		// AND - &&
 
 		// true && true ======> true

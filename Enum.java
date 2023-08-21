@@ -27,7 +27,6 @@ class OrderSize {
 		break;
 	}
 }
-
 }
 public class Enum {
 	

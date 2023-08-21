@@ -12,7 +12,7 @@ public class Inheritance2 {
 		ShopperB Doma = new ShopperB("Romaa", "Domaa", "Sherpa");
 		System.out.println(Doma.SBfirstName+Doma.lastName);
 		Doma.displaySBName();
-		
+
 
 	}
 

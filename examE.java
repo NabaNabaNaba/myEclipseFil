@@ -4,7 +4,7 @@ package jaavaTutorial;
 public class examE {
 
 	public static void main(String[] args) {
-		television tel = new television();
+		television1 tel = new television1();
 		tel.samsung(3);
 		tel.kona(4, 10);
 		tel.sony(2, 20, 30);
@@ -13,7 +13,7 @@ public class examE {
 	}
 
 }
-class television {
+class television1 {
 	
 public void samsung (int a) {
 	System.out.println("samsung");
@@ -24,4 +24,5 @@ public void kona (int a, int b) {
 public void sony (int a, int b, int c) {
 	System.out.println("sony");
 }
+
 }

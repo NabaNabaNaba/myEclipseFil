@@ -11,7 +11,6 @@ public class AbstractMethodWithConsturctor {
 		System.out.println(SB.blackShirt+SB.pieces);
 
 	}
-
 }
 	//creating parent class
 	abstract class shopping {

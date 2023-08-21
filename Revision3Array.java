@@ -1,16 +1,17 @@
 package jaavaTutorial;
 
-public class Revision2 {
+public class Revision3Array {
 
 	public static void main(String[] args) {
 
 		// single dimensional array for integer and using all three loops
-		int[] num = new int[4];
-
-		num[0] = 100;
-		num[1] = 200;
-		num[2] = 300;
-		num[3] = 400;
+//		int[] num = new int[4];
+//
+//		num[0] = 100;
+//		num[1] = 200;
+//		num[2] = 300;
+//		num[3] = 400;
+		int [] num = {100,200,300,400};
 
 		System.out.println(num[2]);
 
@@ -29,6 +30,7 @@ public class Revision2 {
 			i1++;
 		}
 
+		
 		// using for each loop
 
 		for (int abc : number) {
