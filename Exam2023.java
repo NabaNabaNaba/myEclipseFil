@@ -70,15 +70,16 @@ public class Exam2023 {
 //		abs.flower();
 		
 			//Define a  Hashmap and loop over it .
-		HashMap <String , Integer> HMap = new HashMap<String , Integer>();
-		HMap.put("Key one", 4);
-		HMap.put("Key two", 4);
-		HMap.put("Key three", 4);
-		HMap.put("Key four", 4);
-		
-		for (HashMap.Entry<String, Integer> obj : HMap.entrySet()) {
-			System.out.println(obj);
-		}
+//		HashMap <String , Integer> HMap = new HashMap<String , Integer>();
+//		HMap.put("Key one", 4);
+//		HMap.put("Key two", 4);
+//		HMap.put("Key three", 4);
+//		HMap.put("Key four", 4);
+//		
+//		for (HashMap.Entry<String, Integer> obj : HMap.entrySet()) {
+//			System.out.println(obj);//took referance for loop
+//		}
+	
 		
 		}
 	}
